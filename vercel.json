@@ -1,5 +1,0 @@
-{
-  "buildCommand": "cd mini-checkout && npm run build",
-  "outputDirectory": "mini-checkout/dist",
-  "framework": "vite"
-}
