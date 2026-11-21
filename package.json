@@ -1,0 +1,14 @@
+{
+  "name": "mini-checkout-root",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm --prefix mini-checkout run dev",
+    "build": "npm --prefix mini-checkout run build",
+    "preview": "npm --prefix mini-checkout run preview",
+    "test": "npm --prefix mini-checkout run test",
+    "test:headed": "npm --prefix mini-checkout run test:headed",
+    "test:ui": "npm --prefix mini-checkout run test:ui",
+    "test:report": "npm --prefix mini-checkout run test:report"
+  }
+}

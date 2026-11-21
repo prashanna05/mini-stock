@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing & Reports
+test-results/
+playwright-report/
+blob-report/
+.playwright-artifacts/
+
+# Production Build
+dist/
+build/
+
+# Vite & Cache
+.vite/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
